@@ -1,0 +1,37 @@
+{
+
+  "name": "starter",
+
+  "version": "1.0.0",
+
+  "description": "A Nuxt.js starter project",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "dev": "nuxt dev",
+
+    "build": "nuxt build",
+
+    "generate": "nuxt generate",
+
+    "start": "nuxt start"
+
+  },
+
+  "dependencies": {
+
+    "nuxt": "^3.0.0"
+
+  },
+
+  "devDependencies": {},
+
+  "author": "Your Name",
+
+  "license": "MIT"
+
+}
+
+ 
