@@ -5,6 +5,8 @@
   "version": "1.0.0",
 
   "description": "A Nuxt.js starter project",
+  
+  "type": "module",
 
   "main": "index.js",
 
