@@ -18,7 +18,7 @@
 
     "generate": "nuxt generate",
 
-    "start": "node ./node_modules/nuxt/bin/nuxt.js start"
+    "start": "nuxt start"
 
   },
 
